@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "Z:\\Users\\Zhong\\anaconda3\\envs\\translate\\python.exe"
+    "python.pythonPath": "Z:\\Users\\Zhong\\anaconda3\\envs\\translate\\python.exe",
+    "python.dataScience.jupyterServerURI": "local"
 }
