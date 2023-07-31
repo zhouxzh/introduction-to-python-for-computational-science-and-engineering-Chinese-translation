@@ -1,46 +1,32 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fangohr/introduction-to-python-for-computational-science-and-engineering/library-current-versions?filepath=index.ipynb)
-[![Build Status](https://travis-ci.org/fangohr/introduction-to-python-for-computational-science-and-engineering.svg?branch=master)](https://travis-ci.org/fangohr/introduction-to-python-for-computational-science-and-engineering)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fangohr/introduction-to-python-for-computational-science-and-engineering/master?urlpath=tree/book/index.ipynb)
+<!-- markdown-link-check-disable -->
+<!-- TODO: Enable this AFTER first merge and deploy to master! -->
+![Book Deploy](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/workflows/Book%20Deploy/badge.svg)
+<!-- markdown-link-check-enable -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1411868.svg)](https://doi.org/10.5281/zenodo.1411868)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 # Python科学工程计算入门
 
-<a href="https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/raw/master/pdf/Introduction-to-Python-for-Computational-Science-and-Engineering.pdf">
-<img src="https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/raw/master/static/images/titlepage.png" style="float" align="right" width="30%">
+<a href="https://fangohr.github.io/introduction-to-python-for-computational-science-and-engineering/book.pdf">
+<img src="static/images/logo.png" style="float" align="right" width="30%">
 </a>
 
-[Python科学工程计算入门](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/blob/review-readme-2018-09-08/Readme.md), 由Hans Fangohr (2003-2020)开发而来.
+[Python科学工程计算入门](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/blob/review-readme-2018-09-08/Readme.md), 由Hans Fangohr (2003-2021)开发而来.
 
 这本书讲授的内容和方法面对的对象是是需要使用科学计算方法进行数据处理但又没有编程经验或者正式的计算机科学培训的科学家和工程师。
 
-这本书可以通过以下方法获取：
-- [pdf](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/raw/master/pdf/Introduction-to-Python-for-Computational-Science-and-Engineering.pdf) ([version](pdf/version.txt))
-- 交互式的 [作为Jupyter Notebooks格式运行在MyBinder](https://mybinder.org/v2/gh/fangohr/introduction-to-python-for-computational-science-and-engineering/library-current-versions?filepath=index.ipynb)；可能是这本书最吸引人的版本，因为可以立刻执行和修改其中的代码示例，这样可以快速的探索这门编程语言以及增进自己的理解能力。
-  ([利用JupyterLab](https://mybinder.org/v2/gh/fangohr/introduction-to-python-for-computational-science-and-engineering/library-current-versions?urlpath=lab/tree/index.ipynb) 以替代传统的Jupyter Notebook.)
-- html ([online](https://fangohr.github.io/introduction-to-python-for-computational-science-and-engineering/)
-  或者[下载zip格式](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/archive/master.zip)) ([version](docs/version.txt))
-- 直接下载Jupyter Notebook格式 (`*.ipynb`) ([in this zip file](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/archive/master.zip))
-- [大部分最新的源代码都可以在这个页面获取](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/blob/review-readme-2018-09-08/Readme.md)
-
+这本书的英文版可以通过以下方法获取：
+- [网页版(html)](https://fangohr.github.io/introduction-to-python-for-computational-science-and-engineering/)
+<!-- markdown-link-check-enable -->
+<!-- TODO: Enable this AFTER first merge and deploy to master! -->
+- [PDF版本](https://fangohr.github.io/introduction-to-python-for-computational-science-and-engineering/book.pdf)
+<!-- markdown-link-check-enable -->
 
 
 这本书是基于Python3的.
 
-(Python2.7版本可以
-[在线获取](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python2-for-Computational-Science-and-Engineering.pdf))
 
-# 翻译
-
-[这本书又葡萄牙语翻译版本](https://github.com/gcpeixoto/lecture-ipynb/blob/master/README.md) ([pdf](https://github.com/gcpeixoto/lecture-ipynb/raw/master/pdf/Introducao-Python-para-Ciencias-Computacionais-Engenharia.pdf)).
-
-# 致谢
-
-感谢Thomas Kluyver，Neil O'Brien，Jacek Generowicz和Mark
-Molinari所作的各种贡献（详情请参阅最后一章的内容。特别感谢提供反馈和更正的所有用户和学生。
-
-我们感谢EPSRC（GR/T09156/01和EP/G03690X/1）的支助，以及
-来自OpenDreamKit Horizo​​n 2020欧洲研究基础设施
-项目（#676541）。
 
 # 反馈?
 
@@ -102,11 +88,3 @@ at the [European X-ray Free Electron Laser (EuXFEL)
 facility (Germany)](https://xfel.eu).
 
 
-
-
-----
-
-Historical note: CI was done on [Circle
-CI](https://circleci.com/gh/fangohr/introduction-to-python-for-computational-science-and-engineering)
-until 23 August 2018, then switched to [Travis
-CI](https://travis-ci.org/fangohr/introduction-to-python-for-computational-science-and-engineering).
